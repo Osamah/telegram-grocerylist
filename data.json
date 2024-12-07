@@ -1,0 +1,548 @@
+[
+    {
+        "name": "Colruyt",
+        "items": [
+            {
+                "name": "Frozen pumpkin cubes 🎃",
+                "needed": false
+            },
+            {
+                "name": "Javel 🧤",
+                "needed": false
+            },
+            {
+                "name": "Maizena 🌽",
+                "needed": false
+            },
+            {
+                "name": "Milk 🥛",
+                "needed": false
+            },
+            {
+                "name": "Noodles 🍜",
+                "needed": false
+            },
+            {
+                "name": "Honey 🍯",
+                "needed": false
+            },
+            {
+                "name": "Flour 🍞",
+                "needed": false
+            },
+            {
+                "name": "Lemon juice 🍋",
+                "needed": false
+            },
+            {
+                "name": "Shrimp 🦐",
+                "needed": false
+            },
+            {
+                "name": "Cereal 🥣",
+                "needed": false
+            },
+            {
+                "name": "Eggs 🥚",
+                "needed": false
+            },
+            {
+                "name": "Yoghurt 🥣",
+                "needed": false
+            },
+            {
+                "name": "Red onion 🧅",
+                "needed": false
+            },
+            {
+                "name": "Garbage bags 🗑",
+                "needed": false
+            },
+            {
+                "name": "Sugar cubes 🧊",
+                "needed": false
+            },
+            {
+                "name": "Garlic 🧄",
+                "needed": false
+            },
+            {
+                "name": "Water 🚰",
+                "needed": false
+            },
+            {
+                "name": "Brussels sprouts 🥬",
+                "needed": false
+            },
+            {
+                "name": "Ginger syrup 🍹",
+                "needed": false
+            },
+            {
+                "name": "Mojito 🍹",
+                "needed": false
+            },
+            {
+                "name": "Croissant 🥐",
+                "needed": false
+            },
+            {
+                "name": "All cereal bread 🥖",
+                "needed": false
+            },
+            {
+                "name": "Bathroom cleaning product 🚽",
+                "needed": false
+            },
+            {
+                "name": "Calcaire cleaning product 🚿",
+                "needed": false
+            },
+            {
+                "name": "Oven cleaning product 🍽️",
+                "needed": false
+            },
+            {
+                "name": "Sparkling water 🫧",
+                "needed": false
+            },
+            {
+                "name": "Wraps  🌯",
+                "needed": false
+            },
+            {
+                "name": "Carrots 🥕",
+                "needed": false
+            },
+            {
+                "name": "Lettuce 🥬",
+                "needed": false
+            },
+            {
+                "name": "Pepper 🫑",
+                "needed": false
+            },
+            {
+                "name": "Mozzarella 🧀",
+                "needed": false
+            },
+            {
+                "name": "Cream cheese 🥯",
+                "needed": false
+            },
+            {
+                "name": "Grated cheese 🧀",
+                "needed": false
+            },
+            {
+                "name": "Rice 🍚",
+                "needed": false
+            },
+            {
+                "name": "Mayo 🫙",
+                "needed": false
+            },
+            {
+                "name": "Brown sugar 🧋",
+                "needed": false
+            },
+            {
+                "name": "Butter 🧈",
+                "needed": false
+            },
+            {
+                "name": "Choco powder 🍫",
+                "needed": false
+            },
+            {
+                "name": "Tuna 🐟",
+                "needed": false
+            },
+            {
+                "name": "Keukenrol 🗞",
+                "needed": false
+            },
+            {
+                "name": "Garlic bread 🥖",
+                "needed": false
+            },
+            {
+                "name": "Frozen strawberries 🍓",
+                "needed": false
+            },
+            {
+                "name": "Bicarbonate 🗣️",
+                "needed": true
+            },
+            {
+                "name": "Olive oil 🛢",
+                "needed": false
+            },
+            {
+                "name": "Pasta 🍝",
+                "needed": false
+            },
+            {
+                "name": "Oregano 🌿",
+                "needed": false
+            },
+            {
+                "name": "Tortilla chips 🫓",
+                "needed": false
+            },
+            {
+                "name": "Garlic powder 🧄",
+                "needed": false
+            },
+            {
+                "name": "Ear buds 🥢",
+                "needed": false
+            },
+            {
+                "name": "Onions 🧅",
+                "needed": false
+            },
+            {
+                "name": "Toilet paper 🧻",
+                "needed": false
+            },
+            {
+                "name": "Hot sauce dip 🌶️",
+                "needed": false
+            },
+            {
+                "name": "Yeast 🧫",
+                "needed": false
+            },
+            {
+                "name": "Sour candy 🍬",
+                "needed": false
+            },
+            {
+                "name": "Light bulb 💡",
+                "needed": false
+            },
+            {
+                "name": "Salmon bites 🐠",
+                "needed": true
+            },
+            {
+                "name": "Tortellini 🍲",
+                "needed": false
+            },
+            {
+                "name": "Pizza 🍕",
+                "needed": false
+            },
+            {
+                "name": "Potato 🥔",
+                "needed": false
+            },
+            {
+                "name": "Sunflower oil 🛢",
+                "needed": false
+            },
+            {
+                "name": "Ice cream cones🍦",
+                "needed": false
+            },
+            {
+                "name": "Ginger 🫚",
+                "needed": false
+            },
+            {
+                "name": "Fresh lemon 🍋",
+                "needed": false
+            },
+            {
+                "name": "Dish washing liquid 🧴",
+                "needed": false
+            },
+            {
+                "name": "White sauce powder 🧴",
+                "needed": false
+            },
+            {
+                "name": "Gloves 🧤",
+                "needed": false
+            },
+            {
+                "name": "Fish burger patty 🍔",
+                "needed": false
+            },
+            {
+                "name": "Sugar 🍧",
+                "needed": false
+            },
+            {
+                "name": "Corn flakes 🥣",
+                "needed": false
+            },
+            {
+                "name": "Chamomile tea 🌼",
+                "needed": false
+            },
+            {
+                "name": "Toilet cleaner 🦆",
+                "needed": false
+            },
+            {
+                "name": "Box of tissues 🗳️",
+                "needed": false
+            },
+            {
+                "name": "Can of peaches 🍑",
+                "needed": false
+            },
+            {
+                "name": "Sumac 🫗",
+                "needed": false
+            },
+            {
+                "name": "Coconut milk 🥥",
+                "needed": false
+            },
+            {
+                "name": "Soap 🧼",
+                "needed": false
+            },
+            {
+                "name": "Salva slip 🩲",
+                "needed": false
+            },
+            {
+                "name": "Ginger powder 🫚",
+                "needed": false
+            },
+            {
+                "name": "Turmeric 🫔",
+                "needed": false
+            },
+            {
+                "name": "Oranges 🍊",
+                "needed": false
+            },
+            {
+                "name": "Oyster sauce 🦪",
+                "needed": false
+            },
+            {
+                "name": "Cotton rounds 🌫️",
+                "needed": false
+            },
+            {
+                "name": "Aluminum foil 🗞️",
+                "needed": false
+            },
+            {
+                "name": "Plastic wrap 🫔",
+                "needed": false
+            },
+            {
+                "name": "Baking paper 🗞️",
+                "needed": false
+            },
+            {
+                "name": "Vinegar 🍶",
+                "needed": false
+            },
+            {
+                "name": "Pangasius filet 🐟",
+                "needed": false
+            },
+            {
+                "name": "Koriander gemalen 🌿",
+                "needed": false
+            },
+            {
+                "name": "Vanilla extract 🌼",
+                "needed": false
+            },
+            {
+                "name": "Croutons 🍞",
+                "needed": true
+            },
+            {
+                "name": "Dark chocolate 🍫",
+                "needed": true
+            }
+        ]
+    },
+    {
+        "name": "Albert Heijn",
+        "items": [
+            {
+                "name": "Scrocchi 🥠",
+                "needed": false
+            },
+            {
+                "name": "Twirly fries 🌀",
+                "needed": true
+            },
+            {
+                "name": "Milka Bubbly 🍫",
+                "needed": false
+            },
+            {
+                "name": "Tomato sauce 🍅",
+                "needed": false
+            },
+            {
+                "name": "Garlic sauce 🧄",
+                "needed": false
+            },
+            {
+                "name": "Rosemary 🌿",
+                "needed": false
+            },
+            {
+                "name": "Basilicum 🌱",
+                "needed": false
+            },
+            {
+                "name": "Koriander gemalen 🌱",
+                "needed": false
+            },
+            {
+                "name": "Koriander blad 🍃",
+                "needed": false
+            },
+            {
+                "name": "Uien poeder 🧅",
+                "needed": false
+            },
+            {
+                "name": "Garlic powder 🧄",
+                "needed": false
+            },
+            {
+                "name": "Laurier 🍃",
+                "needed": false
+            },
+            {
+                "name": "Orange juice (fresh) 🍊",
+                "needed": false
+            },
+            {
+                "name": "Orange juice 🍊",
+                "needed": false
+            },
+            {
+                "name": "Tortilla chips 🍟",
+                "needed": false
+            },
+            {
+                "name": "Chocolate spread 🍫",
+                "needed": false
+            },
+            {
+                "name": "Popsicles 🍡",
+                "needed": false
+            },
+            {
+                "name": "Sour candy 🍬",
+                "needed": false
+            },
+            {
+                "name": "Kroket 🍟",
+                "needed": true
+            },
+            {
+                "name": "Bladerdeeg 🗞️",
+                "needed": false
+            },
+            {
+                "name": "Toast bread 🍞",
+                "needed": false
+            },
+            {
+                "name": "Tea 🫖",
+                "needed": false
+            },
+            {
+                "name": "Onion 🧅",
+                "needed": false
+            }
+        ]
+    },
+    {
+        "name": "Tong Fong",
+        "items": [
+            {
+                "name": "Udon 🍜",
+                "needed": true
+            },
+            {
+                "name": "Soy sauce 🍶",
+                "needed": false
+            },
+            {
+                "name": "Mochi 🍡",
+                "needed": true
+            },
+            {
+                "name": "Cappuccino ☕️",
+                "needed": true
+            },
+            {
+                "name": "Matcha powder 🍵",
+                "needed": true
+            }
+        ]
+    },
+    {
+        "name": "Butcher",
+        "items": [
+            {
+                "name": "Chicken breast 🐓",
+                "needed": true
+            },
+            {
+                "name": "Merguez 🌭",
+                "needed": false
+            },
+            {
+                "name": "Kefta 🧆",
+                "needed": false
+            },
+            {
+                "name": "Kip merguez 🌭",
+                "needed": true
+            },
+            {
+                "name": "Chicken thighs 🍗",
+                "needed": false
+            },
+            {
+                "name": "Steak 🥩",
+                "needed": false
+            },
+            {
+                "name": "Calf lean meat 🍖",
+                "needed": false
+            }
+        ]
+    },
+    {
+        "name": "Action",
+        "items": [
+            {
+                "name": "Pregnancy test 🧪",
+                "needed": true
+            },
+            {
+                "name": "Big glass 🥛",
+                "needed": true
+            }
+        ]
+    },
+    {
+        "name": "Maghribi",
+        "items": [
+            {
+                "name": "Knorr Smen 🧊",
+                "needed": true
+            }
+        ]
+    }
+]

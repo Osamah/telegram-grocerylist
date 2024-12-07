@@ -1,0 +1,7 @@
+version: "3.4"
+services:
+  botler-service:
+    container_name: grocerease
+    restart: unless-stopped
+    network_mode: host
+    build: .
