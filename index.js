@@ -5,7 +5,7 @@ const fs = require("fs");
 
 const {
     TELEGRAM_BOT_TOKEN,
-    ALLOWED_USERS
+    ALLOWED_USER_IDS
 } = process.env;
 
 const bot = new Telegraf(TELEGRAM_BOT_TOKEN);
@@ -109,7 +109,7 @@ removeListScene.leave(ctx => storeData());
 const viewListsScene = new Scenes.BaseScene('viewlists');
 viewListsScene.enter(async (ctx) => {
     const msg = await ctx.replyWithMarkdownV2(
-        lists.length ? lists.map(list => `*${list.name}* _\\(${list.items?.length || 0} items\\)_\n${list.items.map(i => `${i.needed ? '\\-' : ' '} ${i.name}`).join('\n')}\n`).join('\n') : `_You don't have any lists_`,
+        lists.length ? lists.map(list => `*${list.name}* _\\(${list.items?.length || 0} items\\)_\n${list.items.map(i => `${i.needed ? '\\-' : ' '} ${i.name.replaceAll('(', '\\(').replaceAll(')', '\\)')}`).join('\n')}\n`).join('\n') : `_You don't have any lists_`,
         Markup.inlineKeyboard([Markup.button.callback('Done', 'done')])
     );
     ctx.scene.state.message_id = msg.message_id;
@@ -409,9 +409,9 @@ const stage = new Scenes.Stage([
     shopScene
 ]);
 bot.use((ctx, next) => {
-    const allowedUsers = (ALLOWED_USERS || '').split(',');
-    
-    if (allowedUsers.includes(ctx.message?.from?.id) || allowedUsers.includes(ctx.callbackQuery?.from?.id)) {
+    const allowedUsers = (ALLOWED_USER_IDS || '').split(',');
+
+    if (allowedUsers.includes(ctx.message?.from?.id.toString()) || allowedUsers.includes(ctx.callbackQuery?.from?.id.toString())) {
         return next();
     }
 
