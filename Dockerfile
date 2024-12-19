@@ -2,9 +2,10 @@ FROM --platform=linux/amd64 node:current-alpine
 
 WORKDIR /app
 
-COPY . .
+COPY package*.json ./
 
 RUN npm i
 
-EXPOSE 8080
-CMD ["npm", "start"]
+COPY . .
+
+CMD ["node", "index.js"]
